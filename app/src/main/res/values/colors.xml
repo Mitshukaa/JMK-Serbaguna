@@ -1,0 +1,15 @@
+<resources>
+    <!-- Color definitions -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="green">#73EC8B</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#D4D4D2</color>
+    <color name="vivid">#FF9500</color>
+    <color name="gray_200">#E0E0E0</color> <!-- Light gray -->
+    <color name="gray_600">#757575</color> <!-- Darker gray -->
+</resources>

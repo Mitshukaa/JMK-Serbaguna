@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnDecimal" type="id" />
+    <item name="btnCloseParen" type="id" />
+    <item name="btnOpenParen" type="id" />
+    <item name="btnSubtract" type="id" />
+    <item name="btnAdd" type="id" />
+    <item name="btnPlus" type="id" />
+    <item name="btnMinus" type="id" />
+    <item name="display" type="id" />
+</resources>

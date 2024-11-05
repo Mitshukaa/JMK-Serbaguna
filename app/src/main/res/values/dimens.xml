@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- Ukuran teks kalkulator -->
+        <dimen name="calculator_text_size_large">72sp</dimen>
+        <dimen name="calculator_text_size_normal">28sp</dimen>
+</resources>
